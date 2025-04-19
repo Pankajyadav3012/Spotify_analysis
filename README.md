@@ -18,7 +18,7 @@ To explore Spotify track-level data and deliver a dashboard that highlights key 
 - `cleaned_dataset.xlsx` – Cleaned Spotify dataset (used for Power BI and analysis)
 - `Welcome_to_Colab.ipynb` – Python notebook for data cleaning, exploration, and preparation
 - `CW2.pbix` – Power BI file with interactive dashboard and visuals
-- `queries.sql` – *[To be uploaded]* SQL queries for transformation and aggregation
+- `spotify_song_analysis.sql` – *[To be uploaded]* SQL queries for transformation and aggregation
 
 ---
 
