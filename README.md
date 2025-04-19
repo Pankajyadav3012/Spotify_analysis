@@ -73,7 +73,7 @@ To explore Spotify track-level data and deliver a dashboard that highlights key 
 
 If you're a **recruiter**, **data team lead**, or **hiring manager** looking for someone passionate about using data to uncover trends and deliver value — feel free to reach out!
 
-📫 your.email@example.com  
+📫 pankajkryadav72@gmail.com 
 💼 [LinkedIn Profile](https://www.linkedin.com/in/pankaj-kumar-yadav-4b52bb1b4/)
 
 ---
